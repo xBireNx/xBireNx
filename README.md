@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashwat Biren</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xbirenx&label=Profile%20views&color=0e75b6&style=flat" alt="xbirenx" /> </p>
+
 <p align="left"> <a href="https://twitter.com/_biren_" target="blank"><img src="https://img.shields.io/twitter/follow/_biren_?logo=twitter&style=for-the-badge" alt="_biren_" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Biren.dev](Biren.dev)
@@ -24,5 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biren"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biren" /></a></p><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xbirenx&show_icons=true&locale=en&layout=compact" alt="xbirenx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xbirenx&show_icons=true&locale=en" alt="xbirenx" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xbirenx&" alt="xbirenx" /></p>
