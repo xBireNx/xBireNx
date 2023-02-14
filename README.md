@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Biren.dev](Biren.dev)
 
-- 💬 Ask me about **React.js and JJavaSCript**
+- 💬 Ask me about **React.js and JavaScript**
 
 - 📫 How to reach me **work@biren.dev**
 
