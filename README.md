@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_biren_" target="blank"><img src="https://img.shields.io/twitter/follow/_biren_?logo=twitter&style=for-the-badge" alt="_biren_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Biren.dev](biren.dev)
+- 👨‍💻 All of my projects are available at [Biren.dev](https://biren.dev)
 
 - 💬 Ask me about **React.js and JavaScript**
 
